@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+#lessonNameHeader{
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    padding: 1em 2em;
+}
+
+.lessonArea{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5em;
+    row-gap: 2.5em;
+    justify-content: center;
+    padding: 1em 0;
+}
+.lesson {
+    min-width: 60rem;
+    margin: auto;
+    height: 20rem;
+    background-color: #FFFFFF;
+    border: 1px solid #cbcbcb;
+    border-radius: 1.5rem;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+.lesson .left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.lesson .left div{
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+}
+.lesson .left #for{
+    color: #666666;
+    font-size: 1.6rem;
+}
+.lesson .left .parameter{
+    color: #232323;
+    font-size: 1.8rem;
+}
+.lesson .left .classArea{
+    color: #38B571;
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.lesson .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.lesson .right .questionCountArea{
+    color: #232323;
+    font-size: 1.6rem;
+}
+
+.lesson .right .questionCountArea span{
+    color: #232323;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.lesson .right #noWork{
+    color: #EA4335;
+    font-size: 1.6rem;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: .25em;
+}
+.lesson .right #percentTrue{
+    color: #38B571;
+    font-size: 1.6rem;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: .25em;
+}
+
+.lesson .right #percentTrue span{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.lesson .right #dateStr{
+    color: #232323;
+    font-size: 1.6rem;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: .25em;
+}
+.lesson .right a{
+    background-color: #4285F4;
+    color: #FFFFFF;
+    border: none;
+    height: 3rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    transition: .3s all;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
+}
+
+.lesson .right a:hover{
+    background-color: #3c7adf;
+}

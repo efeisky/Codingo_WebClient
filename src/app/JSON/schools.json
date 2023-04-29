@@ -1,0 +1,2792 @@
+{
+    "ADANA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Boztahta İlkokulu "
+                },
+                {
+                    "OKULADI": " Büyüksofulu İlkokulu "
+                },
+                {
+                    "OKULADI": " Ceritler Necati Özsirkinti İlkokulu "
+                },
+                {
+                    "OKULADI": " Kızıldam İlkokulu "
+                },
+                {
+                    "OKULADI": " Köprücük Mengez İlkokulu "
+                },
+                {
+                    "OKULADI": " Sinanpaşa İlkokulu "
+                },
+                {
+                    "OKULADI": " Akören İlkokulu "
+                },
+                {
+                    "OKULADI": " Atatürk İlkokulu "
+                },
+                {
+                    "OKULADI": " Karatepe İlkokulu "
+                },
+                {
+                    "OKULADI": " Kislak İlkokulu "
+                },
+                {
+                    "OKULADI": " Gerdibi Sivisli İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": "Akören Ortaokulu"
+                },
+                {
+                    "OKULADI": "Boztahta Ortaokulu"
+                },
+                {
+                    "OKULADI": "Atatürk Ortaokulu"
+                },
+                {
+                    "OKULADI": "Gerdibi Ortaokulu"
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Pınar Madencilik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Akören Çok Programli Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ADIYAMAN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Aşağısöğütlü İlkokulu "
+                },
+                {
+                    "OKULADI": " Çakırhöyük İlkokulu "
+                },
+                {
+                    "OKULADI": " Dikilitaş Halil Agar İlkokulu "
+                },
+                {
+                    "OKULADI": " İznik İlkokulu "
+                },
+                {
+                    "OKULADI": " Köşeceli İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Şehit Er Serdar Küpeli Ortaokulu "
+                },
+                {
+                    "OKULADI": " Köşeceli Ortaokulu "
+                },
+                {
+                    "OKULADI": " Oyratli Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Mehmet Akif Ersoy Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Besni Mustafa Erdemoglu Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Sehit Mehmet Yagmur Anadolu Imam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Besni Osman Isot Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Besni Sehit Eren Kupal Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Besni Anadolu İmam Hatip Lisesi "
+                }
+            ]
+        }
+    ],
+    "AFYONKARAHİSAR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Akpınar İlkokulu "
+                },
+                {
+                    "OKULADI": " Alparslan İlkokulu "
+                },
+                {
+                    "OKULADI": " Atatürk İlkokulu "
+                },
+                {
+                    "OKULADI": " Kınık İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " İmrallı Ortaokulu "
+                },
+                {
+                    "OKULADI": " Derekarabağ Ortaokulu "
+                },
+                {
+                    "OKULADI": " Boyalı Şöhret Hanım Ortaokulu "
+                },
+                {
+                    "OKULADI": " Atatürk Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kınık Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Bolvadin Bahçelievler Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bolvadin Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bolvadin Siddika Metin Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bolvadin Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bolvadin  Selçuklu Mesleki ve Teknik Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "AĞRI": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " İncesu İlkokulu "
+                },
+                {
+                    "OKULADI": " Kazan İlkokulu "
+                },
+                {
+                    "OKULADI": " Kemalpaşa İlkokulu "
+                },
+                {
+                    "OKULADI": " Somkaya Hüsnü M.Özyegin İlkokulu "
+                },
+                {
+                    "OKULADI": " Örtülü İlkokulu "
+                },
+                {
+                    "OKULADI": " Yanoba İlkokulu "
+                },
+                {
+                    "OKULADI": " Ayrancı İlkokulu "
+                },
+                {
+                    "OKULADI": " Fatih İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Tutak Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kemalpaşa Ortaokulu "
+                },
+                {
+                    "OKULADI": " Güllüce Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kalecik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Fatih Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Eleskirt 70. Yıl Cumhuriyet Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Eleskirt Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Eleskirt Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Kemal Öztürk Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Yücekapı Çok Programlı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "AMASYA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Şehitler İlkokulu "
+                },
+                {
+                    "OKULADI": " Kızılkışlacık İlkokulu "
+                },
+                {
+                    "OKULADI": " Ezine Pazar Atatürk İlkokulu "
+                },
+                {
+                    "OKULADI": " Boğaz İlkokulu "
+                },
+                {
+                    "OKULADI": " Tuğgeneral Hikmet Akıncı İlkokulu "
+                },
+                {
+                    "OKULADI": " Abdurrahman Kamil İlkokulu "
+                },
+                {
+                    "OKULADI": " Doğantepe İlkokulu "
+                },
+                {
+                    "OKULADI": " Karaköprü Bölmebük Şehit Mustafa Tuluk İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Lokman Hekim İşitme Engelliler Ortaokulu "
+                },
+                {
+                    "OKULADI": " Şehitler Ortaokulu "
+                },
+                {
+                    "OKULADI": " Amasya İmam Hatip Ortaokulu "
+                },
+                {
+                    "OKULADI": " Amasya Çelebi Mehmet Ortaokulu "
+                },
+                {
+                    "OKULADI": " FINDIKLI TOKİ Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Amasya Spor Lisesi "
+                },
+                {
+                    "OKULADI": " Atatürk Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " İrfanli Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Merzifon Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Mithatpaşa Mesleki ve Teknik Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ANKARA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Yıldırım Beyazit İlkokulu "
+                },
+                {
+                    "OKULADI": " Hayme Hatun İlkokulu "
+                },
+                {
+                    "OKULADI": " Tasça İlkokulu "
+                },
+                {
+                    "OKULADI": " Cumhuriyet İlkokulu "
+                },
+                {
+                    "OKULADI": " Nihat Basakar İlkokulu "
+                },
+                {
+                    "OKULADI": " TOKİ Malazgirt İlkokulu "
+                },
+                {
+                    "OKULADI": " Peyamitepe İlkokulu "
+                },
+                {
+                    "OKULADI": " Atilla İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Kemal Yurtbilir İşitme Engelliler Ortaokulu "
+                },
+                {
+                    "OKULADI": " Ankara Ticaret Odasi 65. Yil Ortaokulu "
+                },
+                {
+                    "OKULADI": " Evliya Çelebi Ortaokulu "
+                },
+                {
+                    "OKULADI": " Battalgazi Ortaokulu "
+                },
+                {
+                    "OKULADI": " Peyami Safa Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": "  Ahmet Yesevi Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Yıldırım Beyazit Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Hacı Bayram Kız Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Süleyman Şah Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Afsar Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bala Lisesi "
+                },
+                {
+                    "OKULADI": " Faik Güngör Çok Programlı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ANTALYA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Piri Reis İlkokulu "
+                },
+                {
+                    "OKULADI": " Muratpaşa İlkokulu "
+                },
+                {
+                    "OKULADI": " Merkez İlkokulu "
+                },
+                {
+                    "OKULADI": " Vali Saim Çotur İlkokulu "
+                },
+                {
+                    "OKULADI": " Ahmet Yesevi İlkokulu "
+                },
+                {
+                    "OKULADI": " Kocademir İlkokulu "
+                },
+                {
+                    "OKULADI": " Bilginler İlkokulu "
+                },
+                {
+                    "OKULADI": " Antbirlik İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Antbirlik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Dr. İlhami Tankut Ortaokulu "
+                },
+                {
+                    "OKULADI": " Cumali Ortaokulu "
+                },
+                {
+                    "OKULADI": " Karadayı Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yanköy Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": "  Falez Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Gebiz Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Serik IMKB Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Serik Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " İskender Paşa Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Ardanuç Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Arhavi Kanuni Anadolu İmam Hatip Lisesi "
+                }
+            ]
+        }
+    ],
+    "ARTVİN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Hacılar İlkokulu "
+                },
+                {
+                    "OKULADI": " Nuri Özaltin 75. Yıl İlkokulu "
+                },
+                {
+                    "OKULADI": " Kaynarca İlkokulu "
+                },
+                {
+                    "OKULADI": " Karşıköy İlkokulu "
+                },
+                {
+                    "OKULADI": " Demirciler İlkokulu "
+                },
+                {
+                    "OKULADI": " Muratlı İlkokulu "
+                },
+                {
+                    "OKULADI": " Düzköy İlkokulu "
+                },
+                {
+                    "OKULADI": " Camili İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Fatih Sultan Mehmet Ortaokulu "
+                },
+                {
+                    "OKULADI": " Anbarli Yatılı Bölge Ortaokulu "
+                },
+                {
+                    "OKULADI": " Güresen Sehit Resul Kaksi Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yeniyol Ortaokulu "
+                },
+                {
+                    "OKULADI": " Borçka İmam Hatip Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": "  Ertuğrul Kurdoglu Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Orhan Yücel Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Borçka Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Borçka Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Sehit Savas Gedik Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Osman Bakır Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Hopa Atatürk Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "AYDIN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Kamilpaşa İlkokulu "
+                },
+                {
+                    "OKULADI": " Kuruköy İlkokulu "
+                },
+                {
+                    "OKULADI": " Topçam İlkokulu "
+                },
+                {
+                    "OKULADI": " Kahraman İlkokulu "
+                },
+                {
+                    "OKULADI": " Evciler İlkokulu "
+                },
+                {
+                    "OKULADI": " Elderesi İlkokulu "
+                },
+                {
+                    "OKULADI": " Çatak İlkokulu "
+                },
+                {
+                    "OKULADI": " Hüseyin Özkan İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Zafer Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gelenbe Ali Çevik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Namık Kemal Ortaokulu "
+                },
+                {
+                    "OKULADI": " Akçaova Ortaokulu "
+                },
+                {
+                    "OKULADI": " Didim Selçuk Özsoy Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Buharkent Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Akçaova Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çine 70. Yil Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Mehmet Emin Ünal Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Esra Karakaya Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Didim Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Adnan Menderes Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "BALIKESİR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Necmi Komili İlkokulu "
+                },
+                {
+                    "OKULADI": " Hacıhüseyin İlkokulu "
+                },
+                {
+                    "OKULADI": " Yenikavak İlkokulu "
+                },
+                {
+                    "OKULADI": " Çamucu İlkokulu "
+                },
+                {
+                    "OKULADI": " Koyuneri İlkokulu "
+                },
+                {
+                    "OKULADI": " Dereköy İlkokulu "
+                },
+                {
+                    "OKULADI": " Hürriyet İlkokulu "
+                },
+                {
+                    "OKULADI": " Zeytinli İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Cihan Yorgun Ortaokulu "
+                },
+                {
+                    "OKULADI": " Bağyüzü Ortaokulu "
+                },
+                {
+                    "OKULADI": " Necmi Komili Ortaokulu "
+                },
+                {
+                    "OKULADI": " Zübeyde Hanım Yatılı Bölge Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yenikavak Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Cunda Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Balya Atatürk Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Aksemsettin Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Edincik Recep Gencer Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Enerjisa Bandırma Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Kemal Pireci Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bandırma Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "BİLECİK": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Gazimihal İlkokulu "
+                },
+                {
+                    "OKULADI": " Cengiz Topel İlkokulu "
+                },
+                {
+                    "OKULADI": " Pelitözü İlkokulu "
+                },
+                {
+                    "OKULADI": " Yeniköy Elif Alpdemir İlkokulu "
+                },
+                {
+                    "OKULADI": " Kozabirlik İlkokulu "
+                },
+                {
+                    "OKULADI": " Osmangazi İlkokulu "
+                },
+                {
+                    "OKULADI": " Bilecik Özel Eğitim İlkokulu "
+                },
+                {
+                    "OKULADI": " Aşağıköy İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Gazimihal Ortaokulu "
+                },
+                {
+                    "OKULADI": " Cengiz Topel Ortaokulu "
+                },
+                {
+                    "OKULADI": " 700.Yıl Ortaokulu "
+                },
+                {
+                    "OKULADI": " Murat Hüdavendigar Ortaokulu "
+                },
+                {
+                    "OKULADI": " Bayırköy Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Güner Orbay Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Gölpazari Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Şehit Kemal Ay Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bilecik Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Bilecik Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Hayme Ana Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Refik Arslan Öztürk Fen Lisesi "
+                }
+            ]
+        }
+    ],
+    "BİNGÖL": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Hasbağlar İlkokulu "
+                },
+                {
+                    "OKULADI": " Mercan Çomak İlkokulu "
+                },
+                {
+                    "OKULADI": " Doluçay İlkokulu "
+                },
+                {
+                    "OKULADI": " Çatmaoluk Arzu İlkokulu "
+                },
+                {
+                    "OKULADI": " Doğankaya İlkokulu "
+                },
+                {
+                    "OKULADI": " Erler İlkokulu "
+                },
+                {
+                    "OKULADI": " Selahaddin Eyyübi İlkokulu "
+                },
+                {
+                    "OKULADI": " Milli Egitim Vakfı İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Hasbağlar Ortaokulu "
+                },
+                {
+                    "OKULADI": " Karaçubuk Ortaokulu "
+                },
+                {
+                    "OKULADI": " Çaytepe Yatılı Bölge Ortaokulu "
+                },
+                {
+                    "OKULADI": " Genç İmam Hatip Ortaokulu "
+                },
+                {
+                    "OKULADI": " Çamlık Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Murat Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Genç Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Karlıova Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Karlıova Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Kigi Fuat Dağıstan Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " 60. Yıl Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Türkiye Büyük Millet Meclisi Vakfi Bingöl Fen Lisesi "
+                }
+            ]
+        }
+    ],
+    "BİTLİS": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Aydınlar İlkokulu "
+                },
+                {
+                    "OKULADI": " Akçira Köyü İlkokulu "
+                },
+                {
+                    "OKULADI": " Hidirsah İlkokulu "
+                },
+                {
+                    "OKULADI": " Şehit Mehmet Ali Erçetin Arzu İlkokulu "
+                },
+                {
+                    "OKULADI": " Harmantepe Köyü Nedim Korkut İlkokulu "
+                },
+                {
+                    "OKULADI": " Selçuklu İlkokulu "
+                },
+                {
+                    "OKULADI": " Yukarı Süphan İlkokulu "
+                },
+                {
+                    "OKULADI": " Hidirsah İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Aydınlar Ortaokulu "
+                },
+                {
+                    "OKULADI": " Akçira Köyü Ortaokulu "
+                },
+                {
+                    "OKULADI": " Selçuklu Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yukarı Süphan Ortaokulu "
+                },
+                {
+                    "OKULADI": " Hidirsah Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Adilcevaz Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Adilcevaz Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Rabia Hatun Kız Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " İpekyolu Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Güroymak IMKB Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Hizan Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Fatma Aliye Mesleki ve Teknik Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "BOLU": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Ali Ericek İlkokulu "
+                },
+                {
+                    "OKULADI": " Ekinciler İlkokulu "
+                },
+                {
+                    "OKULADI": " Narzanlar İlkokulu "
+                },
+                {
+                    "OKULADI": " Göynük İlkokulu "
+                },
+                {
+                    "OKULADI": " Egemenlik İlkokulu "
+                },
+                {
+                    "OKULADI": " Kibriscik İlkokulu "
+                },
+                {
+                    "OKULADI": " Gökçesu İlkokulu "
+                },
+                {
+                    "OKULADI": " Mengen İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Egemenlik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Akçira Köyü Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kibriscik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gökçesu Ortaokulu "
+                },
+                {
+                    "OKULADI": " Mengen Ortaokulu "
+                },
+                {
+                    "OKULADI": " Abant Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Gerede Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Orhan Çalis Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Kibriscik Çok Programli Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Mengen Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Gentas Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bolu Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Bolu Fen Lisesi "
+                }
+            ]
+        }
+    ],
+    "BURDUR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Gündoğdu İlkokulu "
+                },
+                {
+                    "OKULADI": " Hüseyin Türker İlkokulu "
+                },
+                {
+                    "OKULADI": " Kestel İlkokulu "
+                },
+                {
+                    "OKULADI": " Bölmepinar İlkokulu "
+                },
+                {
+                    "OKULADI": " Çavdır İlkokulu "
+                },
+                {
+                    "OKULADI": " Bayır İlkokulu "
+                },
+                {
+                    "OKULADI": " Kayacık İlkokulu "
+                },
+                {
+                    "OKULADI": " Kozağaç İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Büyükalan Ortaokulu "
+                },
+                {
+                    "OKULADI": " Çavdır Ortaokulu "
+                },
+                {
+                    "OKULADI": " Bayir Şehit Halil Çelik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gökçesu Ortaokulu "
+                },
+                {
+                    "OKULADI": " Mengen Ortaokulu "
+                },
+                {
+                    "OKULADI": " Abant Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Çavdır Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Kızılkaya Hacı İbrahim Çelik Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Söğüt Çok Programli Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çavdır Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çeltikçi Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Gölhisar Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Gölhisar Mehmet Akif Ersoy Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "BURSA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Hasanpaşa İlkokulu "
+                },
+                {
+                    "OKULADI": " Sükrünailipasa İlkokulu "
+                },
+                {
+                    "OKULADI": " 100.Yıl İlkokulu "
+                },
+                {
+                    "OKULADI": " İnegöl Fenerbahçeliler Derneği Hamamlı İlkokulu "
+                },
+                {
+                    "OKULADI": " Dipsizgöl İlkokulu "
+                },
+                {
+                    "OKULADI": " Edebey İlkokulu "
+                },
+                {
+                    "OKULADI": " Vehbi Koç İlkokulu "
+                },
+                {
+                    "OKULADI": " Alibey İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Ertuğrulgazi Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gazipaşa Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gaziosmanpaşa Ortaokulu "
+                },
+                {
+                    "OKULADI": " Isaören Ortaokulu "
+                },
+                {
+                    "OKULADI": " Prof.Dr.Selçuk Yahsi Ortaokulu "
+                },
+                {
+                    "OKULADI": " Huzur Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " İnegöl Spor Lisesi "
+                },
+                {
+                    "OKULADI": " TOKİ Necip Fazıl Kısakürek Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Yunus Emre Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Esrefzade Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Şehit Sedat Pelit Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Tofaş Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Farabi Mesleki ve Teknik Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ÇANAKKALE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Yeniçiftlik İlkokulu "
+                },
+                {
+                    "OKULADI": " Agaköy İlkokulu "
+                },
+                {
+                    "OKULADI": " Örtülüce İlkokulu "
+                },
+                {
+                    "OKULADI": " Etili İlkokulu "
+                },
+                {
+                    "OKULADI": " Özer İlkokulu "
+                },
+                {
+                    "OKULADI": " Derenti İlkokulu "
+                },
+                {
+                    "OKULADI": " Söğütalan İlkokulu "
+                },
+                {
+                    "OKULADI": " Danapınar İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Biga Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yeniçiftlik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Agaköy Ortaokulu "
+                },
+                {
+                    "OKULADI": " Örtülüce Ortaokulu "
+                },
+                {
+                    "OKULADI": " Güvemalan Ortaokulu "
+                },
+                {
+                    "OKULADI": " Etili Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Biga Atatürk Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Gazi Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çan Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çan Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çan Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Eceabat Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Ezine Celalettin Topçu Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ÇANKIRI": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Karatekin İlkokulu "
+                },
+                {
+                    "OKULADI": " Çatalelma İlkokulu "
+                },
+                {
+                    "OKULADI": " Hazim Dağlı İlkokulu "
+                },
+                {
+                    "OKULADI": " Çankırı Toki İlkokulu "
+                },
+                {
+                    "OKULADI": " İç Yenice İlkokulu "
+                },
+                {
+                    "OKULADI": " Mareşal Çakmak İlkokulu "
+                },
+                {
+                    "OKULADI": " Hasakça İlkokulu "
+                },
+                {
+                    "OKULADI": " Alaçat İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Mehmetçik Ortaokulu "
+                },
+                {
+                    "OKULADI": " Hazim Dağlı Ortaokulu "
+                },
+                {
+                    "OKULADI": " Ovacık Şehit Necdet Demirel Ortaokulu "
+                },
+                {
+                    "OKULADI": " Çankırı Toki Ortaokulu "
+                },
+                {
+                    "OKULADI": " Özlü Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gümerdigin Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": "  Orta Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Sabanözü Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Sabanözü Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Yapraklı Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Bayat Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Kızılırmak Şehit Medet Ekizceli Çok Programlı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ÇORUM": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " İsmailli İlkokulu "
+                },
+                {
+                    "OKULADI": " Sakarya İlkokulu "
+                },
+                {
+                    "OKULADI": " Denizhan İlkokulu "
+                },
+                {
+                    "OKULADI": " Hüseyin Gazi İlkokulu "
+                },
+                {
+                    "OKULADI": " Sarısüleyman İlkokulu "
+                },
+                {
+                    "OKULADI": " Mareşal Çakmak İlkokulu "
+                },
+                {
+                    "OKULADI": " Hasakça İlkokulu "
+                },
+                {
+                    "OKULADI": " Alaçat İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Alacahöyük Ortaokulu "
+                },
+                {
+                    "OKULADI": " Alaca Ortaokulu "
+                },
+                {
+                    "OKULADI": " Büyükdona Sehit Ercüment Köse Ortaokulu "
+                },
+                {
+                    "OKULADI": " Ceritler Ortaokulu "
+                },
+                {
+                    "OKULADI": " Bahçeli Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kunduzlu Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Mehmet Çelik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Alaca Anadolu İmam Hatip Lisesi "
+                },
+                {
+                    "OKULADI": " Alaca Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Bayat Hasan Çelebi Imam Hatip Ortaokulu "
+                },
+                {
+                    "OKULADI": " Boğazkale Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Dodurga Çok Programlı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "DENİZLİ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Dariveren İlkokulu "
+                },
+                {
+                    "OKULADI": " Akalan Fatih İlkokulu "
+                },
+                {
+                    "OKULADI": " Yazir İlkokulu "
+                },
+                {
+                    "OKULADI": " Yeşildere İlkokulu "
+                },
+                {
+                    "OKULADI": " Aliveren İlkokulu "
+                },
+                {
+                    "OKULADI": " Hisar İlkokulu "
+                },
+                {
+                    "OKULADI": " Hasakça İlkokulu "
+                },
+                {
+                    "OKULADI": " Yolçatı Kızılyer İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Alaattin Ortaokulu "
+                },
+                {
+                    "OKULADI": " Aliveren Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yolçatı Kızılyer Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kelekçi Gazi Ortaokulu "
+                },
+                {
+                    "OKULADI": " Alcı Ortaokulu "
+                },
+                {
+                    "OKULADI": " Akalan Fatih Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Acıpayam Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Acıpayam Çamlık Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Kelekci Gazi Lisesi "
+                },
+                {
+                    "OKULADI": " Acıpayam Cumhuriyet Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Fatih Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Babadağ Hacı Mehmet Zorlu Çok Programlı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "DİYARBAKIR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Alipınar İlkokulu "
+                },
+                {
+                    "OKULADI": " Beyaztebeşir İlkokulu "
+                },
+                {
+                    "OKULADI": " Celal Güzelses İlkokulu "
+                },
+                {
+                    "OKULADI": " Hüseyin Uluğ İlkokulu "
+                },
+                {
+                    "OKULADI": " Yunus Emre İlkokulu "
+                },
+                {
+                    "OKULADI": " Pınaroğlu İlkokulu "
+                },
+                {
+                    "OKULADI": " Gömmetaş İlkokulu "
+                },
+                {
+                    "OKULADI": " Şehit Namık Tümer İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Fevzi Çakmak Ortaokulu "
+                },
+                {
+                    "OKULADI": " Eczacılar Ortaokulu "
+                },
+                {
+                    "OKULADI": " Alatosun Ortaokulu "
+                },
+                {
+                    "OKULADI": " Şehit Namık Tümer Ortaokulu "
+                },
+                {
+                    "OKULADI": " Ali Kuşçu Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yenisalan Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Bağlar İstanbul Büyükşehir Belediyesi Kiptaş Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Burhanettin Yıldız Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Güler Sevki Özbek Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Süleyman Demirel Kız Teknik ve Meslek Lisesi "
+                },
+                {
+                    "OKULADI": " Atatürk Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Diyarbakır Rekabet Kurumu Cumhuriyet Fen Lisesi "
+                }
+            ]
+        }
+    ],
+    "EDİRNE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Mecidiye İlkokulu "
+                },
+                {
+                    "OKULADI": " Bademlik İlkokulu "
+                },
+                {
+                    "OKULADI": " Dr. Ali İhsan Çuhacı İlkokulu "
+                },
+                {
+                    "OKULADI": " İzzetiye İlkokulu "
+                },
+                {
+                    "OKULADI": " Siğilli İlkokulu "
+                },
+                {
+                    "OKULADI": " Abdül Savur İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Keşan Atatürk Ortaokulu "
+                },
+                {
+                    "OKULADI": " Mecidiye Ortaokulu "
+                },
+                {
+                    "OKULADI": " Sigilli Ortaokulu "
+                },
+                {
+                    "OKULADI": " Yekta Baydar Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Keşan Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Keşan Ticaret ve Sanayi Odası Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Lalapaşa Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Meriç Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Küplü Çok Programlı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ELAZIĞ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Şahinkaya İlkokulu "
+                },
+                {
+                    "OKULADI": " Elazığ İlkokulu "
+                },
+                {
+                    "OKULADI": " Şht. Pyd. Bnb. Zafer Kılıç İlkokulu "
+                },
+                {
+                    "OKULADI": " Yeniköy Feride Şaşmaz İlkokulu "
+                },
+                {
+                    "OKULADI": " Dumlupınar İlkokulu "
+                },
+                {
+                    "OKULADI": " Hankendi İlkokulu "
+                },
+                {
+                    "OKULADI": " 17 Kasım İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Şahinkaya Ortaokulu "
+                },
+                {
+                    "OKULADI": " Çatalçeşme IMKB Ortaokulu "
+                },
+                {
+                    "OKULADI": " Elazığ Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gazi Kamil Ayhan Ortaokulu "
+                },
+                {
+                    "OKULADI": " Şht. Pyd. Bnb. Zafer Kılıç Ortaokulu "
+                },
+                {
+                    "OKULADI": " Arif Nihat Asya Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Korgeneral Hulusi Sayın Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Necip Fazıl Kısakürek Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Cemil Meriç Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Ögretmen Sıdıka Avar Teknik ve Meslek Lisesi "
+                },
+                {
+                    "OKULADI": " Ahmet Kabaklı Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ERZİNCAN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Nezahat Çeçen İlkokulu "
+                },
+                {
+                    "OKULADI": " Refahiye İlkokulu "
+                },
+                {
+                    "OKULADI": " Altunkent Ömer Gültekin İlkokulu "
+                },
+                {
+                    "OKULADI": " Yeşilyayla İlkokulu "
+                },
+                {
+                    "OKULADI": " Başbudak İlkokulu "
+                },
+                {
+                    "OKULADI": " Gökçe İlkokulu "
+                },
+                {
+                    "OKULADI": " Kökpınar İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Nezahat Çeçen Ortaokulu "
+                },
+                {
+                    "OKULADI": " Refahiye Ortaokulu "
+                },
+                {
+                    "OKULADI": " Saltuklu Ortaokulu "
+                },
+                {
+                    "OKULADI": " Başbudak Ortaokulu "
+                },
+                {
+                    "OKULADI": " Altunkent Ömer Gültekin Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kökpınar Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Refahiye Fen Lisesi "
+                },
+                {
+                    "OKULADI": " Tercan Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çadırkaya Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Tercan Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Fahriye Gültekin Çok Programlı Lisesi "
+                }
+            ]
+        }
+    ],
+    "ERZURUM": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Haydarhacı İlkokulu "
+                },
+                {
+                    "OKULADI": " Kandilli Güvenç İlkokulu "
+                },
+                {
+                    "OKULADI": " Gökçebük İlkokulu "
+                },
+                {
+                    "OKULADI": " Hakkı Pinar İlkokulu "
+                },
+                {
+                    "OKULADI": " Koçak İlkokulu "
+                },
+                {
+                    "OKULADI": " Küçükgeçit Mehmet Acarcan İlkokulu "
+                },
+                {
+                    "OKULADI": " Nahiye Çatören İlkokulu "
+                },
+                {
+                    "OKULADI": " İnkılap İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Haydarhacı Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kandilli Güvenç Ortaokulu "
+                },
+                {
+                    "OKULADI": " Gökçebük Ortaokulu "
+                },
+                {
+                    "OKULADI": " Hakkı Pinar Ortaokulu "
+                },
+                {
+                    "OKULADI": " Koçak Ortaokulu "
+                },
+                {
+                    "OKULADI": " İnkılap Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Emel Çatal Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Çat Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Yavi Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Hinis Çok Programlı Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Hinis Nenehatun Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Horasan Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Horasan Anadolu Lisesi "
+                }
+            ]
+        }
+    ],
+    "ESKİŞEHİR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " Tunalı İlkokulu "
+                },
+                {
+                    "OKULADI": " Ziya Gökalp İlkokulu "
+                },
+                {
+                    "OKULADI": " TOKİ Şehit Emre Bolat İlkokulu "
+                },
+                {
+                    "OKULADI": " Dumlupınar Ahmet Kaftan İlkokulu "
+                },
+                {
+                    "OKULADI": " Cahit Kural İlkokulu "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " Şehit Teğmen Subutay Alkan Ortaokulu "
+                },
+                {
+                    "OKULADI": " Tunalı Ortaokulu "
+                },
+                {
+                    "OKULADI": " Ziya Gökalp Ortaokulu "
+                },
+                {
+                    "OKULADI": " Kazım Karabekir İmam Hatip Ortaokulu "
+                },
+                {
+                    "OKULADI": " Emine Cahide Karaali Ortaokulu "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " Prof.Dr. Orhan Oğuz Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Cemal Mümtaz Sosyal Bilimler Lisesi "
+                },
+                {
+                    "OKULADI": " Mehmetçik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Şehit Murat Tuzsuz Mesleki ve Teknik Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Yılmaz Çetintaş Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Eskişehir Anadolu Lisesi "
+                },
+                {
+                    "OKULADI": " Fatih Fen Lisesi "
+                }
+            ]
+        }
+    ],
+    "GAZİANTEP": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " GAZİANTEP Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " GAZİANTEP Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " GAZİANTEP Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "GİRESUN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " GİRESUN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " GİRESUN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " GİRESUN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "GÜMÜŞHANE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " GÜMÜŞHANE Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " GÜMÜŞHANE Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " GÜMÜŞHANE Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "HAKKARİ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " HAKKARİ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " HAKKARİ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " HAKKARİ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "HATAY": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " HATAY Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " HATAY Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " HATAY Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "ISPARTA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " ISPARTA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " ISPARTA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " ISPARTA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "MERSİN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " MERSİN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " MERSİN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " MERSİN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "İSTANBUL": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " İSTANBUL Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " İSTANBUL Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " İSTANBUL Alternatif Lise "
+                },
+                {
+                    "OKULADI": " Doğan Cüceloğlu Fen Lisesi "
+                }
+            ]
+        }
+    ],
+    "İZMİR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " İZMİR Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " İZMİR Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " İZMİR Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KARS": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KARS Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KARS Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KARS Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KASTAMONU": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KASTAMONU Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KASTAMONU Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KASTAMONU Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KAYSERİ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KAYSERİ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KAYSERİ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KAYSERİ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KIRKLARELİ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KIRKLARELİ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KIRKLARELİ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KIRKLARELİ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KIRŞEHİR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KIRŞEHİR Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KIRŞEHİR Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KIRŞEHİR Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KOCAELİ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KOCAELİ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KOCAELİ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KOCAELİ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KONYA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KONYA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KONYA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KONYA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KÜTAHYA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KÜTAHYA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KÜTAHYA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KÜTAHYA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "MALATYA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " MALATYA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " MALATYA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " MALATYA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "MANİSA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " MANİSA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " MANİSA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " MANİSA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KAHRAMANMARAŞ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KAHRAMANMARAŞ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KAHRAMANMARAŞ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KAHRAMANMARAŞ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "MARDİN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " MARDİN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " MARDİN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " MARDİN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "MUĞLA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " MUĞLA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " MUĞLA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " MUĞLA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "MUŞ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " MUŞ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " MUŞ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " MUŞ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "NEVŞEHİR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " NEVŞEHİR Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " NEVŞEHİR Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " NEVŞEHİR Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "NİĞDE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " NİĞDE Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " NİĞDE Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " NİĞDE Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "ORDU": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " ORDU Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " ORDU Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " ORDU Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "RİZE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " RİZE Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " RİZE Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " RİZE Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "SAKARYA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " SAKARYA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " SAKARYA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " SAKARYA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "SAMSUN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " SAMSUN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " SAMSUN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " SAMSUN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "SİİRT": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " SİİRT Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " SİİRT Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " SİİRT Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "SİNOP": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " SİNOP Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " SİNOP Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " SİNOP Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "SİVAS": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " SİVAS Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " SİVAS Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " SİVAS Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "TEKİRDAĞ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " TEKİRDAĞ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " TEKİRDAĞ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " TEKİRDAĞ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "TOKAT": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " TOKAT Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " TOKAT Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " TOKAT Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "TRABZON": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " TRABZON Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " TRABZON Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " TRABZON Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "TUNCELİ": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " TUNCELİ Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " TUNCELİ Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " TUNCELİ Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "ŞANLIURFA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " ŞANLIURFA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " ŞANLIURFA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " ŞANLIURFA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "UŞAK": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " UŞAK Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " UŞAK Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " UŞAK Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "VAN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " VAN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " VAN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " VAN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "YOZGAT": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " YOZGAT Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " YOZGAT Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " YOZGAT Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "ZONGULDAK": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " ZONGULDAK Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " ZONGULDAK Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " ZONGULDAK Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "AKSARAY": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " AKSARAY Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " AKSARAY Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " AKSARAY Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "BAYBURT": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " BAYBURT Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " BAYBURT Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " BAYBURT Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KARAMAN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KARAMAN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KARAMAN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KARAMAN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KIRIKKALE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KIRIKKALE Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KIRIKKALE Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KIRIKKALE Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "BATMAN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " BATMAN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " BATMAN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " BATMAN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "ŞIRNAK": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " ŞIRNAK Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " ŞIRNAK Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " ŞIRNAK Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "BARTIN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " BARTIN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " BARTIN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " BARTIN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "ARDAHAN": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " ARDAHAN Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " ARDAHAN Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " ARDAHAN Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "IĞDIR": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " IĞDIR Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " IĞDIR Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " IĞDIR Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "YALOVA": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " YALOVA Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " YALOVA Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " YALOVA Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KARABÜK": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KARABÜK Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KARABÜK Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KARABÜK Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "KİLİS": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " KİLİS Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " KİLİS Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " KİLİS Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "OSMANİYE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " OSMANİYE Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " OSMANİYE Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " OSMANİYE Alternatif Lise "
+                }
+            ]
+        }
+    ],
+    "DÜZCE": [
+        {
+            "İlkokul": [
+                {
+                    "OKULADI": " DÜZCE Alternatif İlkokul "
+                }
+            ],
+            "Ortaokul": [
+                {
+                    "OKULADI": " DÜZCE Alternatif Ortaokul "
+                }
+            ],
+            "Lise": [
+                {
+                    "OKULADI": " DÜZCE Alternatif Lise "
+                }
+            ]
+        }
+    ]
+}

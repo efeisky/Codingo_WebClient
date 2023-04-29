@@ -1,0 +1,1073 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
+@media only screen and (max-width: 400px) {
+  html .header {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: .1em solid #cbcbcb;
+  }
+  html .header .logo {
+    width: 15rem;
+    text-align: center;
+  }
+  html .header .logo #headerLogo {
+    width: 15rem;
+  }
+  html .header .score {
+    width: 15rem;
+    text-align: center;
+  }
+  html .header .score .scoreAlign {
+    display: flex;
+    gap: .5em;
+    justify-content: center;
+    align-items: center;
+  }
+  html .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+  }
+  html .header .menu {
+    justify-content: center;
+    width: 17.5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 2em;
+  }
+  html .header .menu .picture {
+    width: 5rem;
+    height: 5rem;
+    position: relative;
+  }
+  html .header .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  html .header .menu .picture .textPicture {
+    position: absolute;
+    left: 18.5em;
+    top: 18.5em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.8rem;
+    cursor: default;
+  }
+  html .header .menu .menu-clickArea {
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    cursor: pointer;
+  }
+  html .header .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  html .header .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html .header .menu .header-menu {
+    display: flex;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    flex-direction: column;
+    background-color: #FFF;
+    border: .1em solid #E6E6E6;
+    border-radius: 1rem;
+    padding: 2em;
+    gap: 2em;
+  }
+  html .header .menu .header-menu .headContent {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 5rem;
+  }
+  html .header .menu .header-menu .headContent svg {
+    position: absolute;
+    left: 0;
+  }
+  html .header .menu .header-menu .headContent .subject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 2.4rem;
+    letter-spacing: .15em;
+  }
+  html .header .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5em;
+    cursor: pointer;
+  }
+  html .header .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.6rem;
+  }
+  html .header .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+  }
+  html .header .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  html .header .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 1.6rem;
+  }
+  html[data-theme=dark] .header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: .1em solid #cbcbcb;
+  }
+  html[data-theme=dark] .header .logo {
+    width: 15rem;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .logo #headerLogo {
+    width: 15rem;
+  }
+  html[data-theme=dark] .header .score {
+    width: 15rem;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign {
+    display: flex;
+    gap: .5em;
+    justify-content: center;
+    align-items: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+  }
+  html[data-theme=dark] .header .menu {
+    width: 1.7rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 2em;
+  }
+  html[data-theme=dark] .header .menu .picture {
+    width: 5rem;
+    height: 5rem;
+    position: relative;
+  }
+  html[data-theme=dark] .header .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  html[data-theme=dark] .header .menu .picture .textPicture {
+    position: absolute;
+    left: 1.85em;
+    top: 1.85em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.8rem;
+    cursor: default;
+    color: #fff;
+  }
+  html[data-theme=dark] .header .menu .menu-clickArea {
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .header .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+  }
+  html[data-theme=dark] .header .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .header .menu .header-menu {
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    flex-direction: column;
+    background-color: #232323;
+    border: .1em solid #E6E6E6;
+    border-radius: 1rem;
+    padding: 2em;
+    gap: 2em;
+  }
+  html[data-theme=dark] .header .menu .header-menu .headContent {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 5em;
+  }
+  html[data-theme=dark] .header .menu .header-menu .headContent svg {
+    position: absolute;
+    left: 0;
+  }
+  html[data-theme=dark] .header .menu .header-menu .headContent .subject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 2.4rem;
+    letter-spacing: .15rem;
+    color: #fff;
+  }
+  html[data-theme=dark] .header .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5em;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .header .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.6rem;
+  }
+  html[data-theme=dark] .header .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.6rem;
+  }
+  html[data-theme=dark] .header .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .header .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 1.6rem;
+  }
+}
+@media only screen and (max-width: 767px) and (min-width: 401px) {
+  html .header {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: .1em solid #cbcbcb;
+  }
+  html .header .logo {
+    width: 15rem;
+    text-align: center;
+  }
+  html .header .logo #headerLogo {
+    width: 15rem;
+  }
+  html .header .score {
+    width: 15rem;
+    text-align: center;
+  }
+  html .header .score .scoreAlign {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+  }
+  html .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem
+  }
+  html .menu {
+    width: 17.5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: .1em;
+    position: relative;
+  }
+  html .menu .picture {
+    width: 5rem;
+    height: 5rem;
+    position: relative;
+  }
+  html .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  html .menu .picture .textPicture {
+    position: absolute;
+    left: 1.85em;
+    top: 1.85em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.8rem;
+    cursor: default;
+  }
+  html .menu .menu-clickArea {
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    cursor: pointer;
+  }
+  html .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  html .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html .menu .header-menu {
+    display: flex;
+    z-index: 1;
+    width: 20rem;
+    height: 31rem;
+    position: absolute;
+    right: 2.5em;
+    top: 6em;
+    flex-direction: column;
+    background-color: #fff;
+    border: .1em solid #E6E6E6;
+    border-radius: 1rem;
+    padding: 2em;
+    gap: 2em;
+  }
+  html .menu .header-menu .headContent {
+    display: none;
+  }
+  html .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5em;
+    cursor: pointer;
+  }
+  html .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.6rem;
+  }
+  html .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+  }
+  html .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+    cursor: pointer;
+  }
+  html .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 1.6rem;
+  }
+  html[data-theme=dark] .header {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #cbcbcb;
+  }
+  html[data-theme=dark] .header .logo {
+    width: 15rem;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .logo #headerLogo {
+    width: 15rem;
+  }
+  html[data-theme=dark] .header .score {
+    width: 15rem;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign {
+    display: flex;
+    gap: .5em;
+    justify-content: center;
+    align-items: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.6rem;
+  }
+  html[data-theme=dark] .menu {
+    width: 17.5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    position: relative;
+  }
+  html[data-theme=dark] .menu .picture {
+    width: 5rem;
+    height: 5rem;
+    position: relative;
+  }
+  html[data-theme=dark] .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  html[data-theme=dark] .menu .picture .textPicture {
+    position: absolute;
+    left: 1.85em;
+    top: 1.85em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.8rem;
+    cursor: default;
+    color: #fff;
+  }
+  html[data-theme=dark] .menu .menu-clickArea {
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.6rem;
+  }
+  html[data-theme=dark] .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .menu .header-menu {
+    z-index: 1;
+    width: 20rem;
+    height: 31rem;
+    position: absolute;
+    right: 2.5em;
+    top: 6em;
+    flex-direction: column;
+    background-color: #232323;
+    border: .1em solid #E6E6E6;
+    border-radius: 1rem;
+    padding: 2em;
+    gap: 2em;
+  }
+  html[data-theme=dark] .menu .header-menu .headContent {
+    display: none;
+  }
+  html[data-theme=dark] .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5em;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.6rem
+  }
+  html[data-theme=dark] .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.6rem
+  }
+  html[data-theme=dark] .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 1.6rem;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1919px) {
+  html .header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #cbcbcb;
+  }
+  html .header .flexColumn {
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  html .header .logo {
+    width: 200px;
+    text-align: center;
+  }
+  html .header .score {
+    width: 200px;
+    text-align: center;
+  }
+  html .header .score .scoreAlign {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  html .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem
+  }
+  html .menu {
+    width: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+  }
+  html .menu .picture {
+    width: 50px;
+    height: 50px;
+    position: relative;
+  }
+  html .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  html .menu .picture .textPicture {
+    position: absolute;
+    left: 18.5px;
+    top: 18.5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 18px;
+    cursor: default;
+  }
+  html .menu .menu-clickArea {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+  }
+  html .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  html .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html .menu .header-menu {
+    display: flex;
+    z-index: 1;
+    width: 200px;
+    height: 310px;
+    position: absolute;
+    right: 25px;
+    top: 60px;
+    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid #E6E6E6;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+  }
+  html .menu .header-menu .headContent {
+    display: none;
+  }
+  html .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+  }
+  html .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.6rem
+  }
+  html .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem
+  }
+  html .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+  }
+  html .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 16px;
+  }
+  html[data-theme=dark] .header {
+    background: #232323;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #cbcbcb;
+  }
+  html[data-theme=dark] .header .flexColumn {
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .header .logo {
+    width: 200px;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .score {
+    width: 200px;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.6rem
+  }
+  html[data-theme=dark] .menu {
+    width: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+  }
+  html[data-theme=dark] .menu .picture {
+    width: 50px;
+    height: 50px;
+    position: relative;
+  }
+  html[data-theme=dark] .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  html[data-theme=dark] .menu .picture .textPicture {
+    position: absolute;
+    left: 18.5px;
+    top: 18.5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 18px;
+    cursor: default;
+  }
+  html[data-theme=dark] .menu .menu-clickArea {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+  }
+  html[data-theme=dark] .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .menu .header-menu {
+    z-index: 1;
+    width: 200px;
+    height: 310px;
+    position: absolute;
+    right: 25px;
+    top: 60px;
+    flex-direction: column;
+    background-color: #232323;
+    border: 1px solid #E6E6E6;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+  }
+  html[data-theme=dark] .menu .header-menu .headContent {
+    display: none;
+  }
+  html[data-theme=dark] .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.6rem
+  }
+  html[data-theme=dark] .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.6rem
+  }
+  html[data-theme=dark] .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 16px;
+  }
+}
+@media only screen and (min-width: 1920px) {
+  html .header {
+    width: 100%;
+    height: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #cbcbcb;
+  }
+  html .header .flexColumn {
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  html .header .logo {
+    width: 200px;
+    text-align: center;
+  }
+  html .header .score {
+    width: 200px;
+    text-align: center;
+  }
+  html .header .score .scoreAlign {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  html .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem
+  }
+  html .menu {
+    width: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+  }
+  html .menu .picture {
+    width: 50px;
+    height: 50px;
+    position: relative;
+  }
+  html .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  html .menu .picture .textPicture {
+    position: absolute;
+    left: 18.5px;
+    top: 18.5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 1.8rem;
+    cursor: default;
+  }
+  html .menu .menu-clickArea {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+  }
+  html .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  html .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html .menu .header-menu {
+    display: flex;
+    z-index: 1;
+    width: 200px;
+    height: 310px;
+    position: absolute;
+    right: 25px;
+    top: 60px;
+    flex-direction: column;
+    background-color: #fff;
+    border: 1px solid #E6E6E6;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+  }
+  html .menu .header-menu .headContent {
+    display: none;
+  }
+  html .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+  }
+  html .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.6rem
+  }
+  html .menu .header-menu .link .temaModeText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem
+  }
+  html .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+    font-size: 1.6rem
+  }
+  html .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 16px;
+  }
+  html[data-theme=dark] {
+    background: #232323;
+  }
+  html[data-theme=dark] .header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #cbcbcb;
+  }
+  html[data-theme=dark] .header .flexColumn {
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .header .logo {
+    width: 200px;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .score {
+    width: 200px;
+    text-align: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  html[data-theme=dark] .header .score .scoreAlign .scoreText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+  }
+  html[data-theme=dark] .menu {
+    width: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+  }
+  html[data-theme=dark] .menu .picture {
+    width: 50px;
+    height: 50px;
+    position: relative;
+  }
+  html[data-theme=dark] .menu .picture #userPicture {
+    object-fit: cover;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  html[data-theme=dark] .menu .picture .textPicture {
+    position: absolute;
+    left: 18.5px;
+    top: 18.5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 18px;
+    cursor: default;
+  }
+  html[data-theme=dark] .menu .menu-clickArea {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .menu-clickArea .userName {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+  }
+  html[data-theme=dark] .menu .menu-clickArea .arrow {
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .menu .header-menu {
+    z-index: 1;
+    width: 200px;
+    height: 310px;
+    position: absolute;
+    right: 25px;
+    top: 60px;
+    flex-direction: column;
+    background-color: #232323;
+    border: 1px solid #cbcbcb;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+  }
+  html[data-theme=dark] .menu .header-menu .headContent {
+    display: none;
+  }
+  html[data-theme=dark] .menu .header-menu .link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .header-menu .link a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #fff;
+  }
+  html[data-theme=dark] .menu .header-menu .link .temaModeText {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+  html[data-theme=dark] .menu .header-menu .signOutForm {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .menu .header-menu .signOutForm #signOut {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    background: none;
+    color: #EA4335;
+    font-size: 16px;
+  }
+}

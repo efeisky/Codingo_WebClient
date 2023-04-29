@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+.biographyArea{
+    padding: 5em;
+}
+
+.biographyArea .title{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.6rem;
+    font-weight: 500;
+}
+.biographyArea .content{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.4rem;
+    font-weight: 400;
+    padding: 1em 1.5em;
+}

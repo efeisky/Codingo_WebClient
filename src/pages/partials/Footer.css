@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+.FooterArea{
+    width: 100%;
+    height: 30rem;
+    background: #232323;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+}
+.FooterAreaClosed{
+    width: 100%;
+    height: 10rem;
+    background: #232323;
+    position: fixed;
+    bottom: 0;
+    padding-left: 10em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.FooterArea .rowLinks{
+    display: flex;
+    justify-content: space-around;
+}
+
+.FooterArea .rowLinks{
+    display: flex;
+    justify-content: space-around;
+}
+
+.FooterArea .rowLinks .column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5em;
+    min-width: 200px;
+}
+
+.FooterArea .rowLinks .column a{
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    color: #C2C2C2;
+    text-decoration: none;
+}
+
+.FooterArea .rowLinks .column a .linkButton{
+    border: 1px solid #3E3E3E;
+    min-width: 9em;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 1em;
+}
+
+.FooterArea .Codingo{
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.FooterAreaClosed .Codingo {
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    color: #FFFFFF;
+}

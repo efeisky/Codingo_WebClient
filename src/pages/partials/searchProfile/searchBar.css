@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+.searchArea{
+    padding: 5em 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+.searchInput{
+    width: 75%;
+    height: 5rem;
+    font-size: 2rem;
+    padding: 0 1em;
+    border: 1px solid #cbcbcb;
+    border-radius: .5em;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+}
+.findedUserArea{
+    width: 75%;
+    max-height: calc(500px + 2em);
+    padding: 1em;
+    margin-top: 1.5em;
+    font-size: 2rem;
+    background-color: #FFFFFF;
+    border: 1px solid #cbcbcb;
+    display: inline-flex;
+    position: absolute;
+    top: 75%;
+    left: auto;
+    flex-direction: column;
+    gap: 1em;
+    border-radius: .5rem;
+    z-index: 2;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    overflow: auto;
+}
+.findedUserArea .user{
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    cursor: pointer;
+    text-decoration: none;
+}
+.findedUserArea .user:hover{
+    background-color: #eeeeee;
+}
+.findedUserArea .user img{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+}
+.findedUserArea .user #username{
+    font-family: 'Inter', sans-serif;
+    font-size: 1.8rem;
+    color: #3ACD7E;
+}
+.findedUserArea .user #realname{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 2rem;
+    color: #232323;
+
+}

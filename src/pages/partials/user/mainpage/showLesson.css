@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+.lessonMain{
+    width: 80%;
+    height: 40rem;
+    background-color: #FFFFFF;
+    border: .1rem solid #cbcbcb;
+    border-radius: 2.5rem;
+    margin: 5rem auto;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+.lessonMain .infoArea{
+    display: flex;
+    flex-direction: column;
+    gap: calc(100% / 3);
+    justify-content: center;
+    font-size: 2rem;
+}
+.lessonMain .infoArea div #shortInfo{
+    font-size: 1.8rem;
+    color: #666666;
+}
+.lessonMain .infoArea div #longInfo{
+    font-weight: 500;
+}
+.lessonMain .infoArea div {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+.lessonMain .imgArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lessonMain .imgArea img{
+    width: 30rem;
+    border-radius: 2.5rem;
+    height: auto;
+}
+.lessonMain .linkArea {
+    display: flex;
+    flex-direction: column;
+    gap: calc(100% / 4);
+    justify-content: center;
+    font-size: 2rem;
+}
+.lessonMain .linkArea a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.lessonMain .linkArea button{
+    background-color: #38B571;
+    width: 100%;
+    padding: 1rem 2rem;
+    font-size: 1.8rem;
+    border: none;
+    border-radius: .5rem;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: .3s all;
+}
+.lessonMain .linkArea button:hover{
+    background-color: #35a166;
+}

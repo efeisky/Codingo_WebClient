@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+.scoreArea{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    padding: 5em;
+    margin-bottom: 10em;
+}
+.scoreArea .scoreItem{
+    display: flex;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    gap: 1em;
+}

@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&500&display=swap');
+
+.Header{
+    position: sticky;
+    top: 0;
+    display: flex;
+    width: 100%;
+    height: 10rem;
+    background-color: #FFFFFF;
+    justify-content: space-around;
+    z-index: 1;
+}
+.Header .logoAndNamePart{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 25rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+.Header .logoAndNamePart .logo{
+    width: 7.5rem;
+    height: 7.5rem;
+}
+.Header .logoAndNamePart p{
+    font-family: 'Inter', sans-serif;
+    font-size: 2.5rem;
+    color: #232323;
+}
+.Header .actionPart{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 25rem;
+}
+.Header .actionPart p{
+    font-family: 'Inter', sans-serif;
+}
+.Header .actionPart #noAuth{
+    font-family: 'Inter', sans-serif;
+    font-size: 1.8rem;
+    text-decoration: none;
+}
+.Header .actionPart #registerA{
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    padding: 1.25rem 2.5rem;
+    background: rgb(181,56,199);
+    background: -moz-linear-gradient(45deg, rgba(181,56,199,1) 0%, rgba(111,0,255,1) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(181,56,199,1) 0%, rgba(111,0,255,1) 100%);
+    background: linear-gradient(45deg, rgba(181,56,199,1) 0%, rgba(111,0,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b538c7",endColorstr="#6f00ff",GradientType=1);
+    border-radius: 1rem;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.Header .actionPart .nameMenu{
+    display: flex;
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    align-items: center;
+    gap: 2rem;
+    cursor: pointer;
+}
+.Header .actionPart .nameMenu #name{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.Header .actionPart .nameMenu .menu{
+    display: flex;
+    position: absolute;
+    top: 100%;
+    left: auto;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    border: 1px solid #cbcbcb;
+    border-radius: .5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 1rem .5rem;
+}
+.Header .actionPart .nameMenu .menu a{
+    color: #232323;
+    text-decoration: none;
+    font-size: 1.6rem;
+    width: 100%;
+    text-align: left;
+    padding-left: 1rem;
+    text-decoration: none;
+}
+.Header .actionPart .nameMenu .menu button{
+    width: 100%;
+    background-color: rgb(234, 67, 53);
+    border: none;
+    padding: .5rem .25rem;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    cursor: pointer;
+    transition: .3s all;
+}
+.Header .actionPart .nameMenu .menu button:hover{
+    background-color: rgb(201, 45, 32);
+}

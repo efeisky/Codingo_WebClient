@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+.headerArea{
+    display: flex;
+    justify-content: space-between;
+    padding: 5em;
+}
+.headerArea .pictureNameAndSecure{
+    display: flex;
+    width: 45rem;
+    justify-content: space-between;
+}
+.headerArea .pictureNameAndSecure #Circle{
+    border-radius: 50%;
+    max-height: 15rem;
+    object-fit: cover;
+}
+.headerArea .pictureNameAndSecure #Square{
+    border-radius: 1rem;
+    max-height: 15rem;
+    object-fit: cover;
+}
+.headerArea .pictureNameAndSecure .sideArea{
+    width: 25rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.headerArea .pictureNameAndSecure .sideArea .names{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2em;
+}
+.headerArea .pictureNameAndSecure .sideArea .names #realName{
+    font-size: 2.2rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+.headerArea .pictureNameAndSecure .sideArea .names #userName{
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+    color: #3ACD7E;
+}

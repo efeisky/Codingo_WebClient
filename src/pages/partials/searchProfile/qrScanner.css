@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+.qr{
+    width: 720px;
+    margin: 5em auto;
+    height: auto;
+}
+
+.qrArea{
+    margin-bottom: 10em;
+}
+
+.qrButtonDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5em;
+    cursor: pointer;
+    height: 60vh;
+}
+.qrButtonDiv img{
+    width: 20rem;
+}
+.qrButtonDiv p{
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #b3b3b3;
+}

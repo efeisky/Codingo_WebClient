@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+.Buttons{
+    display: flex;
+    padding: 5em;
+    gap: 5em;
+}
+.actionButton{
+    width: fit-content;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1em;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    gap: 1em
+}
+.actionButton .buttonText{
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+}

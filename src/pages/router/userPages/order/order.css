@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+
+
+.users{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 5em auto 10em auto;
+    font-family: 'Inter', sans-serif;
+    gap: 1rem;
+}
+.changeMode{
+    padding: 1.5rem 3rem;
+    font-size: 1.6rem;
+    background-color: #4285F4;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-radius: 1rem;
+    max-width: 20%;
+    transition: .3s all;
+}
+.changeMode:hover{
+    background-color: #3976da;
+}
+.users h1{
+    font-size: 2.2rem;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+.user{
+    padding: .5rem 1rem;
+    display: flex;
+    gap: 2em;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: .5rem;
+}
+.user .left{
+    display: flex;
+    align-items: center;
+    gap: 2em;
+}
+.user img{
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 1rem;
+    object-fit: cover;
+}
+.user .nameArea{
+    min-width: 20rem;
+    max-width: 80rem;
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+}
+.user .nameArea .realname{
+    font-weight: 500;
+}
+.user .nameArea .username{
+    font-weight: 400;
+    color: rgb(58, 205, 126);
+    cursor: pointer;
+    text-decoration: none;
+}

@@ -1,0 +1,1911 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
+.menu, .closedMenu {
+  display: none;
+}
+
+.schoolLevelAreaPhone, .schoolTextPhone, .imgPhoneArea {
+  display: none;
+}
+
+@media only screen and (max-width: 400px) {
+  html {
+    background-color: #fff;
+  }
+  html .openebleMenu {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #3ACD7E;
+    z-index: 2;
+  }
+  html .openebleMenu .headContent {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    position: relative;
+  }
+  html .openebleMenu .headContent svg {
+    position: absolute;
+    left: 10%;
+  }
+  html .openebleMenu .links {
+    padding: 20% 0 10% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  html .openebleMenu .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html .openebleMenu .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #fff;
+  }
+  html .openebleMenu .links a:active {
+    color: #fff;
+  }
+  html .openebleMenu .bottomContent {
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+  }
+  html .openebleMenu .bottomContent .themeandWifi {
+    display: flex;
+    justify-content: space-around;
+  }
+  html .openebleMenu .bottomContent .copyright {
+    padding: 0 10% 0 10%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+  }
+  html .openebleMenu .bottomContent .copyright span {
+    font-weight: 600;
+  }
+  html .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.6);
+    display: flex;
+    align-items: center;
+  }
+  html .topBar .menu {
+    display: block;
+    cursor: pointer;
+  }
+  html .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html .topBar #theme {
+    display: none;
+  }
+  html .topBar #theme svg {
+    cursor: pointer;
+  }
+  html .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html .topBar .links {
+    display: none;
+  }
+  html .mainImage img {
+    display: none;
+  }
+  html .mainImage .textImage {
+    padding: 50px 10px 20px 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+  }
+  html .mainImage .buttonImage {
+    display: none;
+  }
+  html .pilotLessonArea {
+    padding: 2.5vh 10px 2.5vh 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+  }
+  html .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html .pilotLessonArea a {
+    width: 200px;
+    height: 50px;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .line, html .linePhone {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html .schoolLevelAreaPhone {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  html .schoolLevelAreaPhone .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    gap: 50px;
+    width: 100%;
+    overflow: auto;
+  }
+  html .schoolLevelAreaPhone .schoolLevel::-webkit-scrollbar {
+    visibility: visible;
+  }
+  html .schoolLevelAreaPhone .schoolLevel div {
+    width: 100px;
+    aspect-ratio: 1/1;
+    min-width: 100px;
+    background-color: rgba(58, 205, 126, 0.8);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html .schoolLevelAreaPhone .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.9);
+  }
+  html .schoolLevelAreaPhone .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html .schoolLevelAreaPhone .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+  }
+  html .schoolLevelArea {
+    display: none;
+  }
+  html .schoolTextPhone {
+    display: block;
+    padding: 10px;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    line-height: 18px;
+  }
+  html .schoolTextPhone span {
+    font-weight: 600;
+  }
+  html .imgPhoneArea {
+    display: block;
+  }
+  html .navBar {
+    width: 100%;
+    height: auto;
+    padding: 25px 0 25px 0;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+  }
+  html .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 16px;
+  }
+  html .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] {
+    background-color: #232323;
+    color: #fff;
+  }
+  html[data-theme=dark] .openebleMenu {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #232323;
+    z-index: 2;
+  }
+  html[data-theme=dark] .openebleMenu .headContent {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    position: relative;
+  }
+  html[data-theme=dark] .openebleMenu .headContent svg {
+    position: absolute;
+    left: 10%;
+  }
+  html[data-theme=dark] .openebleMenu .links {
+    padding: 20% 0 10% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  html[data-theme=dark] .openebleMenu .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html[data-theme=dark] .openebleMenu .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #fff;
+  }
+  html[data-theme=dark] .openebleMenu .links a:active {
+    color: #fff;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent {
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent .themeandWifi {
+    display: flex;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent .copyright {
+    padding: 0 10% 0 10%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent .copyright span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.98);
+    display: flex;
+    align-items: center;
+  }
+  html[data-theme=dark] .topBar .menu {
+    display: block;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html[data-theme=dark] .topBar #theme {
+    display: none;
+  }
+  html[data-theme=dark] .topBar #theme svg {
+    cursor: pointer;
+  }
+  html[data-theme=dark] .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html[data-theme=dark] .topBar .links {
+    display: none;
+  }
+  html[data-theme=dark] .mainImage img {
+    display: none;
+  }
+  html[data-theme=dark] .mainImage .textImage {
+    padding: 50px 10px 20px 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+  }
+  html[data-theme=dark] .mainImage .buttonImage {
+    display: none;
+  }
+  html[data-theme=dark] .pilotLessonArea {
+    padding: 2.5vh 10px 2.5vh 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html[data-theme=dark] .pilotLessonArea a {
+    width: 200px;
+    height: 50px;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .line, html[data-theme=dark] .linePhone {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    gap: 50px;
+    width: 100%;
+    overflow: auto;
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone .schoolLevel::-webkit-scrollbar {
+    visibility: visible;
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone .schoolLevel div {
+    width: 100px;
+    aspect-ratio: 1/1;
+    min-width: 100px;
+    background-color: rgba(58, 205, 126, 0.2);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.3);
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html[data-theme=dark] .schoolLevelAreaPhone .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #3ACD7E;
+  }
+  html[data-theme=dark] .schoolLevelArea {
+    display: none;
+  }
+  html[data-theme=dark] .schoolTextPhone {
+    display: block;
+    padding: 10px;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    line-height: 18px;
+  }
+  html[data-theme=dark] .schoolTextPhone span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] .imgPhoneArea {
+    display: block;
+  }
+  html[data-theme=dark] .navBar {
+    width: 100%;
+    height: auto;
+    padding: 25px 0 25px 0;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+  }
+  html[data-theme=dark] .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 16px;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+}
+@media only screen and (max-width: 767px) and (min-width: 401px) {
+  html {
+    background-color: #fff;
+  }
+  html .openebleMenu {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #3ACD7E;
+    z-index: 2;
+  }
+  html .openebleMenu .headContent {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    position: relative;
+  }
+  html .openebleMenu .headContent svg {
+    position: absolute;
+    left: 10%;
+  }
+  html .openebleMenu .links {
+    padding: 20% 0 10% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  html .openebleMenu .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html .openebleMenu .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #fff;
+  }
+  html .openebleMenu .links a:active {
+    color: #fff;
+  }
+  html .openebleMenu .bottomContent {
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+  }
+  html .openebleMenu .bottomContent .themeandWifi {
+    display: flex;
+    justify-content: space-around;
+  }
+  html .openebleMenu .bottomContent .copyright {
+    padding: 0 10% 0 10%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+  }
+  html .openebleMenu .bottomContent .copyright span {
+    font-weight: 600;
+  }
+  html .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.6);
+    display: flex;
+    align-items: center;
+  }
+  html .topBar .menu {
+    display: block;
+    cursor: pointer;
+  }
+  html .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html .topBar #theme {
+    display: none;
+  }
+  html .topBar #theme svg {
+    cursor: pointer;
+  }
+  html .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html .topBar .links {
+    display: none;
+  }
+  html .mainImage .textImage {
+    padding: 50px 10px 20px 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+  }
+  html .mainImage .buttonImage {
+    margin: 0 auto 50px auto;
+    width: 200px;
+    height: 60px;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .mainImage .buttonImage:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .pilotLessonArea {
+    padding: 5vh 0 5vh 0;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+  }
+  html .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html .pilotLessonArea a {
+    width: 250px;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .line, html .linePhone {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html .schoolLevelArea {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+  }
+  html .schoolLevelArea .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    gap: 50px;
+    width: 90%;
+    overflow: auto;
+  }
+  html .schoolLevelArea .schoolLevel::-webkit-scrollbar {
+    visibility: visible;
+  }
+  html .schoolLevelArea .schoolLevel div {
+    width: 100px;
+    aspect-ratio: 1/1;
+    min-width: 100px;
+    background-color: rgba(58, 205, 126, 0.8);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html .schoolLevelArea .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.9);
+  }
+  html .schoolLevelArea .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html .schoolLevelArea .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+  }
+  html .schoolLevelArea .schoolText {
+    width: 90%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    line-height: 24px;
+  }
+  html .schoolLevelArea .schoolText span {
+    font-weight: 600;
+  }
+  html .navBar {
+    width: 100%;
+    height: 225px;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+  }
+  html .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 16px;
+  }
+  html .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] {
+    background-color: #232323;
+    color: #fff;
+  }
+  html[data-theme=dark] .openebleMenu {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #232323;
+    z-index: 2;
+  }
+  html[data-theme=dark] .openebleMenu .headContent {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+    position: relative;
+  }
+  html[data-theme=dark] .openebleMenu .headContent svg {
+    position: absolute;
+    left: 10%;
+  }
+  html[data-theme=dark] .openebleMenu .links {
+    padding: 20% 0 10% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+  }
+  html[data-theme=dark] .openebleMenu .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html[data-theme=dark] .openebleMenu .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #fff;
+  }
+  html[data-theme=dark] .openebleMenu .links a:active {
+    color: #fff;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent {
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent .themeandWifi {
+    display: flex;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent .copyright {
+    padding: 0 10% 0 10%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+  }
+  html[data-theme=dark] .openebleMenu .bottomContent .copyright span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.98);
+    display: flex;
+    align-items: center;
+  }
+  html[data-theme=dark] .topBar .menu {
+    display: block;
+    cursor: pointer;
+  }
+  html[data-theme=dark] .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html[data-theme=dark] .topBar #theme {
+    display: none;
+  }
+  html[data-theme=dark] .topBar #theme svg {
+    cursor: pointer;
+  }
+  html[data-theme=dark] .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html[data-theme=dark] .topBar .links {
+    display: none;
+  }
+  html[data-theme=dark] .mainImage .textImage {
+    padding: 50px 10px 20px 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+  }
+  html[data-theme=dark] .mainImage .buttonImage {
+    margin: 0 auto 50px auto;
+    width: 200px;
+    height: 60px;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .mainImage .buttonImage:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .pilotLessonArea {
+    padding: 5vh 0 5vh 0;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html[data-theme=dark] .pilotLessonArea a {
+    width: 250px;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .line, html[data-theme=dark] .linePhone {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html[data-theme=dark] .schoolLevelArea {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    gap: 50px;
+    width: 90%;
+    overflow: auto;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel::-webkit-scrollbar {
+    visibility: visible;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div {
+    width: 100px;
+    aspect-ratio: 1/1;
+    min-width: 100px;
+    background-color: rgba(58, 205, 126, 0.2);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.3);
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #3ACD7E;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolText {
+    width: 90%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    line-height: 24px;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolText span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] .navBar {
+    width: 100%;
+    height: 225px;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+  }
+  html[data-theme=dark] .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 16px;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+}
+@media only screen and (max-width: 1920px) and (min-width: 767px) {
+  html {
+    background-color: #fff;
+  }
+  html .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.6);
+    display: flex;
+    align-items: center;
+  }
+  html .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html .topBar #theme svg {
+    cursor: pointer;
+  }
+  html .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html .topBar .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  html .topBar .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html .topBar .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #000;
+  }
+  html .topBar .links a:active {
+    color: #000;
+  }
+  html .mainImage {
+    position: relative;
+  }
+  html .mainImage .textImage {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    width: 50%;
+    text-align: center;
+  }
+  html .mainImage .buttonImage {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 60px;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .mainImage .buttonImage:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .pilotLessonArea {
+    padding: 5vh 0 5vh 0;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+  }
+  html .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html .pilotLessonArea a {
+    width: 250px;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .line {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html .schoolLevelArea {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+  }
+  html .schoolLevelArea .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+    overflow: auto;
+  }
+  html .schoolLevelArea .schoolLevel div {
+    width: 20%;
+    max-width: 250px;
+    aspect-ratio: 1/1;
+    background-color: rgba(58, 205, 126, 0.8);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html .schoolLevelArea .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.9);
+  }
+  html .schoolLevelArea .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html .schoolLevelArea .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: #fff;
+  }
+  html .schoolLevelArea .schoolText {
+    width: 90%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    line-height: 30px;
+  }
+  html .schoolLevelArea .schoolText span {
+    font-weight: 600;
+  }
+  html .navBar {
+    width: 100%;
+    height: 300px;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+  }
+  html .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 20px;
+  }
+  html .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] {
+    background-color: #232323;
+    color: #fff;
+  }
+  html[data-theme=dark] .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.98);
+    display: flex;
+    align-items: center;
+  }
+  html[data-theme=dark] .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html[data-theme=dark] .topBar #theme svg {
+    cursor: pointer;
+  }
+  html[data-theme=dark] .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html[data-theme=dark] .topBar .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  html[data-theme=dark] .topBar .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html[data-theme=dark] .topBar .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #fff;
+  }
+  html[data-theme=dark] .topBar .links a:active {
+    color: #fff;
+  }
+  html[data-theme=dark] .mainImage {
+    position: relative;
+  }
+  html[data-theme=dark] .mainImage .textImage {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    width: 50%;
+    text-align: center;
+  }
+  html[data-theme=dark] .mainImage .buttonImage {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 60px;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .mainImage .buttonImage:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .pilotLessonArea {
+    padding: 5vh 0 5vh 0;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html[data-theme=dark] .pilotLessonArea a {
+    width: 250px;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .line {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html[data-theme=dark] .schoolLevelArea {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+    overflow: auto;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div {
+    width: 20%;
+    max-width: 250px;
+    aspect-ratio: 1/1;
+    background-color: rgba(58, 205, 126, 0.2);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.3);
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: #3ACD7E;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolText {
+    width: 90%;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    line-height: 30px;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolText span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] .navBar {
+    width: 100%;
+    height: 300px;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+  }
+  html[data-theme=dark] .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 20px;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+}
+@media only screen and (min-width: 1920px) {
+  html {
+    background-color: #fff;
+  }
+  html .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.6);
+    display: flex;
+    align-items: center;
+  }
+  html .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html .topBar #theme svg {
+    cursor: pointer;
+  }
+  html .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  html .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #000;
+  }
+  html .links a:active {
+    color: #000;
+  }
+  html .mainImage {
+    position: relative;
+  }
+  html .mainImage .textImage {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    width: 50%;
+    text-align: center;
+  }
+  html .mainImage .buttonImage {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 17.5%;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .mainImage .buttonImage:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .pilotLessonArea {
+    padding: 5vh 0 5vh 0;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html .pilotLessonArea a {
+    width: 17.5%;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html .line {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html .schoolLevelArea {
+    width: 80%;
+    margin: auto;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+  }
+  html .schoolLevelArea .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+  }
+  html .schoolLevelArea .schoolLevel div {
+    width: 250px;
+    height: 250px;
+    background-color: rgba(58, 205, 126, 0.8);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html .schoolLevelArea .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.9);
+  }
+  html .schoolLevelArea .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html .schoolLevelArea .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+  }
+  html .schoolLevelArea .schoolText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    line-height: 30px;
+  }
+  html .schoolLevelArea .schoolText span {
+    font-weight: 600;
+  }
+  html .navBar {
+    width: 100%;
+    height: 300px;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+  }
+  html .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 20px;
+  }
+  html .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] {
+    background-color: #232323;
+    color: #fff;
+  }
+  html[data-theme=dark] .topBar {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(58, 205, 126, 0.98);
+    display: flex;
+    align-items: center;
+  }
+  html[data-theme=dark] .topBar div {
+    width: 33.3333333333%;
+    text-align: center;
+  }
+  html[data-theme=dark] .topBar #themeDark svg {
+    cursor: pointer;
+  }
+  html[data-theme=dark] .topBar .headerSubject {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html[data-theme=dark] .links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  html[data-theme=dark] .links a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+  }
+  html[data-theme=dark] .links a .txt {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    color: #fff;
+  }
+  html[data-theme=dark] .links a:active {
+    color: #fff;
+  }
+  html[data-theme=dark] .mainImage {
+    position: relative;
+  }
+  html[data-theme=dark] .mainImage .textImage {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    width: 50%;
+    text-align: center;
+  }
+  html[data-theme=dark] .mainImage .buttonImage {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    width: 17.5%;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .mainImage .buttonImage:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .pilotLessonArea {
+    padding: 5vh 0 5vh 0;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5vh;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+  }
+  html[data-theme=dark] .pilotLessonArea .pilotLessonText #focusEye {
+    color: rgb(58, 205, 126);
+  }
+  html[data-theme=dark] .pilotLessonArea a {
+    width: 17.5%;
+    height: 10vh;
+    background: rgba(58, 205, 126, 0.8);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.5s all;
+  }
+  html[data-theme=dark] .pilotLessonArea a:hover {
+    background: rgba(58, 205, 126, 0.9);
+  }
+  html[data-theme=dark] .line {
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 1px;
+    background-color: #DBDBDB;
+  }
+  html[data-theme=dark] .schoolLevelArea {
+    width: 80%;
+    margin: auto;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div {
+    width: 250px;
+    height: 250px;
+    background-color: rgba(58, 205, 126, 0.2);
+    border-radius: 50%;
+    transition: 0.5s background-color;
+    position: relative;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div:hover {
+    background-color: rgba(58, 205, 126, 0.3);
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div img {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolLevel div span {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #3ACD7E;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolText {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    line-height: 30px;
+  }
+  html[data-theme=dark] .schoolLevelArea .schoolText span {
+    font-weight: 600;
+  }
+  html[data-theme=dark] .navBar {
+    width: 100%;
+    height: 300px;
+    background-color: #2F2E41;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  html[data-theme=dark] .navBar .Codingo {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+  }
+  html[data-theme=dark] .navBar .lastNavArea {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #fff;
+    font-size: 20px;
+  }
+  html[data-theme=dark] .navBar .lastNavArea .copyright span {
+    font-weight: 600;
+  }
+}
